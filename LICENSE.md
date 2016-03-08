@@ -1,4 +1,4 @@
-# For software
+# For source code
 
 Copyright (c) 2016, Jose Miguel Venegas Mendoza
 
